@@ -1,0 +1,20 @@
+@font-face {
+      font-family: 'Uni Sans Thin';
+      src: url('fonts/DC_Thin.woff2');
+      url(https://github.com/MushroomFX/fonts/blob/main/dc/DC_Thin.woff2?raw=true) format('woff2');
+  }
+  @font-face {
+      font-family: 'Uni Sans Thin Italic';
+      src: url('fonts/DC_Thin_Italic.woff2');
+      url(https://github.com/MushroomFX/fonts/blob/main/dc/DC_Thin_Italic.woff2?raw=true) format('woff2');
+  }
+  @font-face {
+      font-family: 'Uni Sans Heavy';
+      src: url('fonts/DC_Heavy.woff2');
+      url(https://github.com/MushroomFX/fonts/blob/main/dc/DC_Heavy.woff2?raw=true) format('woff2');
+  }
+  @font-face {
+      font-family: 'Uni Sans Heavy Italic';
+      src: url('fonts/DC_Heavy_Italic.woff2');
+      url(https://github.com/MushroomFX/fonts/blob/main/dc/DC_Heavy_Italic.woff2?raw=true) format('woff2');
+  }
